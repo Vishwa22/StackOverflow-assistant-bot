@@ -12,7 +12,11 @@ For instructions on the working of the bot please refer *Working_on_chatbot.pdf*
 ### Key requirements to run this project:
 
 *Google Colab account to train the models
+
 *AWS account to host the chatbot
+
 *Telegram account to instantiate the bot
+
 *Docker installed in windows 8.1 to generate starspace embeddings
+
 *Putty in Windows 8.1 (ssh to AWS linux machine) for transferring necessary python files and trained models to run bot on AWS linux machine.
