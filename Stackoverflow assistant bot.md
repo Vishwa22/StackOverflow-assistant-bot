@@ -41,7 +41,7 @@ Dataset provided:
 `dialogues.tsv`: Dialogue phrases from movie subtitles (negative samples).
 `Tagged_posts.tsv`: StackOverflow posts, tagged with one programming language (positive samples).
 
-- Checkout [Chatbot_project.ipynb](https://github.com/Vishwa22/StackOverflow-assistant-bot/blob/master/chatbot_project.ipynb). It performs specifically two tasks:
+- Checkout [chatbot_project.ipynb](https://github.com/Vishwa22/StackOverflow-assistant-bot/blob/master/chatbot_project.ipynb). It performs specifically two tasks:
 - *Intent and Language Recognition*
   - First we need to distinguish programming related questions from general ones.
   - Later the programming related questions need to be tagged with the corresponding programming language (here only one!)
