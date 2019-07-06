@@ -4,7 +4,7 @@ Constructing a dialogue chat bot, which will be able to:  answer programming-rel
 
 For instructions on the working of the bot please refer [Stackoverflow assistant bot.md](https://github.com/Vishwa22/StackOverflow-assistant-bot/blob/master/Stackoverflow%20assistant%20bot.md) provided in the repository.
 
-### Key requirements to run this project:
+### Key requirements to run the project:
 
 * Google Colab account to train the models
 
@@ -15,6 +15,8 @@ For instructions on the working of the bot please refer [Stackoverflow assistant
 * Docker installed in windows 8.1 to generate starspace embeddings
 
 * Putty in Windows 8.1 (ssh to AWS linux machine) for transferring necessary python files and trained models to run bot on AWS linux machine.
+
+### Necessary python files and notebooks to run the project: 
 
 [chatbot_project.ipynb](https://github.com/Vishwa22/StackOverflow-assistant-bot/blob/master/chatbot_project.ipynb) will produce following outputs:
 * intent_recognizer.pkl-- intent recognition model;
